@@ -1,1 +1,1 @@
-Ссылки на полученные баллы на Kaggle:
+Профиль на Kaggle: https://www.kaggle.com/vladiusgf
